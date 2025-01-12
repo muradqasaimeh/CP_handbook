@@ -1,4 +1,4 @@
 # Competitive Programmers Handbook
-The C++ and Python implementations of algorithms in Competitive Programmer’s Handbook.
+This repository implement all problems of the Competitive Programmer’s Handbook in both C++ and python. .
 
 
