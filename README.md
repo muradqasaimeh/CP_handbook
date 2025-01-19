@@ -5,7 +5,7 @@ In the first chapter,
 
 
 ## I Basic techniques  
-1. Introduction:
+1. Introduction
     1.1 Programming languages 
     1.2 Input and output
     1.3 Working with numbers  
