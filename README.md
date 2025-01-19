@@ -12,7 +12,7 @@ In the first chapter,
     1.4 Shortening code  
     1.5 Mathematics 
   1.6 Contests and resources  
-2 Time complexity  
+2. Time complexity  
     2.1 Calculation rules  
     2.2 Complexity classes  
     2.3 Estimating efficiency  
