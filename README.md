@@ -6,57 +6,57 @@ In the first chapter,
 
 ## I Basic techniques  
 1. Introduction:
-  1.1 Programming languages 
-  1.2 Input and output  
+    1.1 Programming languages 
+    1.2 Input and output
     1.3 Working with numbers  
     1.4 Shortening code  
     1.5 Mathematics 
-  1.6 Contests and resources  
-2. Time complexity  
+    1.6 Contests and resources  
+3. Time complexity  
     2.1 Calculation rules  
     2.2 Complexity classes  
     2.3 Estimating efficiency  
     2.4 Maximum subarray sum  
-3. Sorting  
+4. Sorting  
     3.1 Sorting theory  
     3.2 Sorting in C++  
     3.3 Binary search  
-4. Data structures  
+5. Data structures  
     4.1 Dynamic arrays 
     4.2 Set structures  
     4.3 Map structures  
     4.4 Iterators and ranges  
     4.5 Other structures 
     4.6 Comparison to sorting 
-5. Complete search  
+6. Complete search  
     5.1 Generating subsets  
     5.2 Generating permutations 
     5.3 Backtracking  
     5.4 Pruning the search  
     5.5 Meet in the middle  
-6. Greedy algorithms  
+7. Greedy algorithms  
     6.1 Coin problem  
     6.2 Scheduling  
     6.3 Tasks and deadlines  
     6.4 Minimizing sums  
     6.5 Data compression  
-7. Dynamic programming  
+8. Dynamic programming  
     7.1 Coin problem  
     7.2 Longest increasing subsequence  
     7.3 Paths in a grid  
     7.4 Knapsack problems  
     7.5 Edit distance  
     7.6 Counting tilings  
-8. Amortized analysis  
+9. Amortized analysis  
     8.1 Two pointers method  
     8.2 Nearest smaller elements  
     8.3 Sliding window minimum  
-9. Range queries  
+10. Range queries  
     9.1 Static array queries 
     9.2 Binary indexed tree  
     9.3 Segment tree  
     9.4 Additional techniques  
-10. Bit manipulation 
+11. Bit manipulation 
     10.1 Bit representation  
     10.2 Bit operations  
     10.3 Representing sets  
